@@ -1,19 +1,13 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "data": [
+        { "id": 0, "name": "Morango", "price": 10 },
+        { "id": 1, "name": "Banana", "price": 10 },
+        { "id": 2, "name": "Maca", "price": 10 },
+        { "id": 3, "name": "Pera", "price": 10 },
+        { "id": 4, "name": "Uva", "price": 10 },
+        { "id": 5, "name": "Kiwi", "price": 10 }
+    ],
+    "datacontent": [
+        { "id": 3000, "name": "Tester" }
+    ]
 }

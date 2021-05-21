@@ -20,7 +20,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "server": "json-server server.json -p 8888",
+    "server": "json-server server.json --watch -p 8888",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {

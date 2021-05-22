@@ -1,13 +1,100 @@
 {
-    "data": [
-        { "id": 0, "name": "Morango", "price": 10 },
-        { "id": 1, "name": "Banana", "price": 10 },
-        { "id": 2, "name": "Maca", "price": 10 },
-        { "id": 3, "name": "Pera", "price": 10 },
-        { "id": 4, "name": "Uva", "price": 10 },
-        { "id": 5, "name": "Kiwi", "price": 10 }
-    ],
-    "datacontent": [
-        { "id": 3000, "name": "Tester" }
-    ]
+  "data": [
+    {
+      "id": "0",
+      "name": "Morango",
+      "price": 10
+    },
+    {
+      "id": "1",
+      "name": "Banana",
+      "price": 10
+    },
+    {
+      "id": "2",
+      "name": "Maca",
+      "price": 10
+    },
+    {
+      "id": "3",
+      "name": "Pera",
+      "price": 10
+    },
+    {
+      "id": "4",
+      "name": "Uva",
+      "price": 10
+    },
+    {
+      "id": "5",
+      "name": "Kiwi",
+      "price": 10
+    },
+    {
+      "name": "melao",
+      "price": "22",
+      "id": "jiLeRIq"
+    },
+    {
+      "name": "melancia",
+      "price": "100",
+      "id": "dp2a6Xx"
+    },
+    {
+      "name": "figo",
+      "price": "500",
+      "id": "H9-x3ts"
+    },
+    {
+      "name": "mango",
+      "price": "34",
+      "id": "ygeUikZ"
+    },
+    {
+      "name": "pessego",
+      "price": "25",
+      "id": "S7ENLse"
+    },
+    {
+      "name": "roma",
+      "price": "14",
+      "id": "zD37mXP"
+    },
+    {
+      "name": "rasberry",
+      "price": 5,
+      "id": "p4qo6yG"
+    },
+    {
+      "name": "tomate",
+      "price": "2",
+      "id": "GiM9GtA"
+    },
+    {
+      "name": "mango",
+      "price": 22,
+      "id": "T_uC0F2"
+    },
+    {
+      "name": "caju",
+      "price": 122,
+      "id": "1Y_hKhH"
+    },
+    {
+      "name": "jaca",
+      "price": 244,
+      "id": "ziO0WEA"
+    },
+    {
+      "name": "teste",
+      "price": 0,
+      "id": "7v08niE"
+    }
+  ],
+  "datacontent": [
+    {
+      "id": "0",
+      "name": "Tester"
+    }
+  ]
 }
